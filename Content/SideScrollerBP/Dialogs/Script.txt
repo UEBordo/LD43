@@ -12,10 +12,11 @@
 *Devant la grotte*
 
 	Hatty : Woo! That cavity looks reaaaaally small.
-	Hatty : I'm sorry Tom but I think we gotta let that armor behind.
-	Hatty : There's no way you can get in there with your huge armor...
+	Hatty : What ? You can't bend your knees with your leg armor?
+	Hatty : Aw you'll need to let them here then...
 *Dans la grotte*
 
+	Hatty : I know you liked this piece of armor but we had to let it go...
 	Hatty : Woaaah dude look at these shiny rocks!
 	Hatty : I really wanna take one but they don't look movable. :(
 
@@ -35,9 +36,9 @@
 	Hatty: About the speech and honors ? 
 	Hatty: It's okay Tom, just put me here, I'll wait for your return.
 *Rentre voir le chef*
-*Pendant la remise des récompenses, Hatty tombe de la cheminée avec un nuage de fumée et rigole*
+*Pendant la remise des récompenses, Hatty tombe dans la pièce depuis la cheminée avec un nuage de fumée et rigole*
 
-										-FIN-
+										    -FIN-
 
 
 
