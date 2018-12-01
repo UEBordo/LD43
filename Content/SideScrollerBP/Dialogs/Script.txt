@@ -1,0 +1,39 @@
+-Level 0-
+
+	Hatty : Drew, this is our last step into the quest, the Big Toad!
+	Hatty : Let's beat that thing!
+*Bat le monstre*
+	Hatty : Phew! Now that was a close call...
+	Hatty : But we won! It's over! :D
+	Hatty : Let's go back in our town, shall we?
+
+
+-Level 1-
+*Devant la grotte*
+
+	Hatty : Woo! That cavity looks reaaaaally small.
+	Hatty : I'm sorry Tom but I think we gotta let that armor behind.
+	Hatty : There's no way you can get in there with your huge armor...
+
+
+-Level Intermédiaires-
+
+
+-Level Final- 
+	Hatty: We're finally home!
+	Hatty: You lost a lot of your favorite items on the way though...
+	Hatty: Hey we HAVE TO see the town chief, he'll give us our reward!
+*Arrive à quelques mètres de la porte du chef*
+	Hatty: Uuuuuuuuh Tom?
+	Hatty: I'm pretty sure we can't get through that door with me on your head...
+	Hatty: No, it's the guard at the door, he really doesn't like hats at all.
+	Hatty: You gotta let me behind Tom, you know, so you can get in.
+	Hatty: About the speech and honors ? 
+	Hatty: It's okay Tom, just put me here, I'll wait for your return.
+*Rentre voir le chef*
+*Pendant la remise des récompenses, Hatty tombe de la cheminée avec un nuage de fumée et rigole*
+
+										-FIN-
+
+
+
