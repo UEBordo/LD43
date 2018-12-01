@@ -14,6 +14,10 @@
 	Hatty : Woo! That cavity looks reaaaaally small.
 	Hatty : I'm sorry Tom but I think we gotta let that armor behind.
 	Hatty : There's no way you can get in there with your huge armor...
+*Dans la grotte*
+
+	Hatty : Woaaah dude look at these shiny rocks!
+	Hatty : I really wanna take one but they don't look movable. :(
 
 
 -Level Intermédiaires-
