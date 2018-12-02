@@ -23,7 +23,7 @@
 
 	Hatty: I know you liked this piece of armor but we had to let it go...
 	Hatty: Woaaah dude look at these shiny rocks!
-	Hatty: I really wanna take one but they don't look movable. :(
+	Hatty: I really wanna take one but they don't look movable.
 
 
 
@@ -35,7 +35,8 @@
 
 	Hatty: These islands are super high.
 	Hatty: Yeah, you know it.
-	Hatty: That heavy armor, it gotta go my dude, if you don't wanna fall into the void.	
+	Hatty: That heavy armor, it gotta go my dude. 
+	Hatty: You don't wanna fall into the void, do you?	
 
 ---------------------------------------------------------------
 -Level Final- 
@@ -48,20 +49,22 @@
 	Guard: Huh, alright I guess.
 	Guard: I can't let you get in with that sword, though.
 	Hatty: What ?! But that's our only item left...
-	Guard: The rules have changed, you've been gone for quite a long time buddy.
+	Guard: The rules have changed. 
+	Guard: You've been gone for quite a long time buddy.
 	Hatty: Okay, let's drop it here then...
 
 *Entre dans le village*
 
 	Hatty: We're finally home!
 	Hatty: You lost all of your favorite items on the way though...
-	Hatty: Hey we HAVE TO see the town chief, he'll give us our reward!
+	Hatty: Hey we HAVE TO see the town chief,
+	Hatty: He'll give us our reward!
 
 *Arrive à quelques mètres de la porte du chef*
 
 	Hatty: Uuuuuuuuh Tom?
-	Hatty: I'm pretty sure we can't get through that door with me on your head...
-	Hatty: No, it's the guard at the door, he's super afraid of hats.
+	Hatty: We can't get through that door with me on your head...
+	Hatty: No, it's the guard at the door, he's super afraid of bunnies.
 	Hatty: DON'T YOU REMEMBER WHAT HE DID THE LAST TIME?!
 	Hatty: You gotta let me behind Tom, you know, so you can get in.
 	Hatty: About the speech and honors ? 
