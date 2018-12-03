@@ -33,8 +33,6 @@
 	Hatty: I really wanna take one but they don't look movable.
 
 
-
-
 ---------------------------------------------------------------
 -Level 3-
 
@@ -71,13 +69,19 @@
 
 	Hatty: Uuuuuuuuh Tom?
 	Hatty: We can't get through that door with me on your head...
-	Hatty: No, it's the guard at the door, he's super afraid of bunnies.
+	Hatty: No, it's the guard at the door. 
+	Hatty: He's super afraid of bunnies.
 	Hatty: DON'T YOU REMEMBER WHAT HE DID THE LAST TIME?!
 	Hatty: You gotta let me behind Tom, you know, so you can get in.
 	Hatty: About the speech and honors ? 
 	Hatty: It's okay Tom, just put me here, I'll wait for your return.
 
 *Rentre voir le chef*
+
+	Chief: Tom! You're finally back from your quest!
+	Chief: I can see on your face that it wasn't an easy journey...
+	Chief: You got rid of all the monsters nearby the village.
+	Chief: Congratulations Tom, here, take your reward...
 
 *Pendant la remise des récompenses, Hatty tombe dans la pièce depuis la cheminée avec un nuage de fumée et rigole*
 
