@@ -12,6 +12,13 @@
 
 
 ---------------------------------------------------------------
+-Level 1-
+
+	Butcher: Hey there traveler!
+	Butcher: I saw you fighting from there, impressing!
+	Butcher: Please accept my food as a gift!
+
+---------------------------------------------------------------
 -Level 2-
 
 *Devant la grotte*
